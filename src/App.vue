@@ -1,11 +1,11 @@
 <template>
   <nav>
-    <router-link to="/">Accueil</router-link> |
+    <router-link to="/">Accueil ! </router-link> |
     <router-link to="/assurance-voiture-maroc">Auto</router-link>
   </nav>
   <router-view/>
 </template>
-
+ 
 
 
 <style>
